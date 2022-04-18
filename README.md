@@ -9,7 +9,7 @@
     block of React applications. When you're finished, you'll be prepared to
     create React components to build excellent experiences for your app's users.
   </p>
-
+  <h1>Arya Rocks<h1>
   <a href="https://epicreact.dev">
     <img
       alt="Learn React from Start to Finish"
